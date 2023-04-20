@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <title> ABC </title>
+  <body bgcolor="cyan">
+<h1> ISHA BAIRAM </h1>
+<h2> AIML SEC F </h2>
+</h3> AM22019 </h3>
+
+<h1> Students names </h1>
+<h2>
+<ol>
+<li> Isha </li>
+<li> Khushi </li>
+<li> Vidhi </li>
+<li> Srushti </li> 
+</li> Arya </li>
+</ol>
+</h2>
+
+<h1> City names </h1>
+<ul>
+<li> Chandrapur </li>
+<li> Nagpur </li>
+<li> Mumbai </li>
+<li> Pune </li>
+</ul>
+</body>
+</head>
+</html>
